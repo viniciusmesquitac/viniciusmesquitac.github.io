@@ -1,10 +1,12 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Vinicius Mesquita"
+author: "Vinicius Mesquita"
+avatar: https://media-exp1.licdn.com/dms/image/C4E03AQHIRCxQ_37e1Q/profile-displayphoto-shrink_800_800/0/1542122401090?e=1674691200&v=beta&t=J-4qAAtQ59XA2gw_1crm2c1L721rXCI9s_VB3jl4wTY
+description: "Vinicius's portfolio"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+theme: jekyll-theme-minimal
 
 # Layout
 
@@ -30,3 +32,19 @@ comments:
 
 plugins:
  - jekyll-feed
+
+ footer-links:
+   behance: # https://www.behance.net/<username>
+   dribbble:
+   email: viniciuscoelho.ti@gmail.com
+   facebook:
+   flickr:
+   github: viniciusmesquitac
+   googleplus: # anything in your profile username that comes after plus.google.com/
+   instagram: _vinicius.nesquita
+   linkedin: viniciusmesquita12
+   pinterest:
+   rss: # just type anything here for a working RSS icon
+   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+   tumblr: # https://<username>.tumblr.com
+   youtube: # channel/<your_long_string> or user/<user-name>
