@@ -9,4 +9,4 @@ Create and save your daily records in a simple and elegant way! Functionalities 
 
 # Screenshots
 
-<img width="200" alt="simple-diary-1" src="../assets/images/simple-diary-1"> <img width="160" alt="simple-diary-2" src="../assets/images/simple-diary-2"> <img width="160" alt="simple-diary-3" src="../assets/images/simple-diary-3"> <img width="160" alt="simple-diary-4" src="../assets/images/simple-diary-4"> 
+<img width="160" alt="simple-diary-1" src="../assets/images/simple-diary-1.png"> <img width="160" alt="simple-diary-2" src="../assets/images/simple-diary-2.png"> <img width="160" alt="simple-diary-3" src="../assets/images/simple-diary-3.png"> <img width="160" alt="simple-diary-4" src="../assets/images/simple-diary-4.png"> 
